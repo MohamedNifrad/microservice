@@ -1,0 +1,3 @@
+bootstrap yml file also added
+load balanced
+no circuit break pattern added - if one service is down then entire project is down 
